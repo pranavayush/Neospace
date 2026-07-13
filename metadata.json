@@ -1,0 +1,6 @@
+{
+  "name": "Neonotes",
+  "description": "An elegant, iOS-styled cloud notes dashboard inspired by the Apple Notes aesthetic. Complete with split-pane navigation, HTML5 Sketch board drawing canvas, interactive checklist styling, and unified iCloud folders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
